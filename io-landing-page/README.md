@@ -4,7 +4,7 @@ description: This is the form you use to add your project to our network.
 
 # Project Formatting
 
-## Introductory
+## Overview
 
 ### Title
 
