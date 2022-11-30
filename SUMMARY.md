@@ -9,3 +9,4 @@
 * [CFA (Collective Foundational Agreement) Formatting](cfa-collective-foundational-agreement-formatting.md)
 * [DAO Formation Formatting](dao-formation-formatting.md)
 * [Ledger Formatting](ledger-formatting.md)
+* [Wiki Entry Protocol](wiki-entry-protocol.md)
