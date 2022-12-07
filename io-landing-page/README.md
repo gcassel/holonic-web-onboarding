@@ -18,7 +18,7 @@ _What is the_ [_primary_](https://github.com/gcassel/Modular-Organizing-Terminol
 
 ### Vision
 
-
+Vision is an optional but often important part of sensemaking to develop a [Mission](https://docs.google.com/document/d/1vr957QAuU88YwXFXtoIrXocIDwXCtbpWWY4aRZQapXk/edit#heading=h.4lhuhh5vqf0d) (and the rest of a Project).  Vision is a goal; it’s a desired state/condition of being and/or activity.  Vision can be grand and inspiring, as long as it leads to a practical Mission.
 
 ### Overview/Summary
 
