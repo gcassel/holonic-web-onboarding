@@ -6,6 +6,6 @@ description: >-
 
 # About this Space
 
-****[**Definitions**](https://docs.google.com/document/d/1Bs8gStTOvuKaiUWFXHxCy4WMBi56qStB5qHxs2SrNjw/edit?usp=sharing)****
+## ****[**Definitions**](https://docs.google.com/document/d/1Bs8gStTOvuKaiUWFXHxCy4WMBi56qStB5qHxs2SrNjw/edit?usp=sharing) **(draft)**
 
 You may directly request updates to this Gitbook collection at [https://github.com/gcassel/holonic-web-onboarding.](https://github.com/gcassel/holonic-web-onboarding)
