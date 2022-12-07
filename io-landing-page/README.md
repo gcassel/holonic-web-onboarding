@@ -46,11 +46,11 @@ _Can you describe your Project's Mission as the story of a key Problem and its S
 
 _What goods and services, if any, is your product offering or developing for access through one or more commons or marketplaces?_
 
-#### _Current ?_
-
 #### _Planned ?_
 
 (describe or link prototypes and proposals?  can compare to Developmental Staging Recipe classifications, if desired)
+
+#### _Current ?_
 
 #### Use Cases
 
@@ -58,7 +58,7 @@ _What are the intended uses of the goods and/or services you have created or are
 
 _(Note: if products are separately listed, so should use-cases be)_
 
-## _**Governance Resources**_
+## _**Media Resources**_
 
 _Use the subsections below to provide general information on_ [_governance resources_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/governance-resource.md) _and planning._
 
