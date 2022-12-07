@@ -155,6 +155,8 @@ _Describe or link the resources already invested in the project, including estim
 
 ## Get Involved (Pathways to Participation)
 
+_(Greg:  double-check CCF to ensure sufficient comprehensiveness)_
+
 ### Community Channel(s)
 
 _add definition_
