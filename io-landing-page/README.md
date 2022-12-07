@@ -24,11 +24,11 @@ Mission should define, or summarize and link, the primary goal or goals for the 
 
 _Mission should be identifiable as action, or activity, in which this project either maintains or further develops the resources of interest to the project stewards and others.  Mission may be perceived as vision, purpose, intent or goal.)_
 
-### Overview/Summary
+### Summary
 
-_add definition_
+_A summary is a model or map which concisely represents your project at a reduced level of detail._
 
-_**SHOULD BE OPTIONAL!!**_
+_(guidelines or rules on summary length TBD?)_
 
 ### Storyline
 
