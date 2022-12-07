@@ -26,7 +26,7 @@ _Mission should be identifiable as action, or activity, in which this project ei
 
 ### Summary
 
-_A summary is a model or map which concisely represents your project at a reduced level of detail._
+_A summary is a detailed model or map which concisely represents your project at a reduced level of detail._
 
 _(guidelines or rules on summary length TBD?)_
 
