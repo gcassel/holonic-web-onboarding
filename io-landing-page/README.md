@@ -58,42 +58,7 @@ _What are the intended uses of the goods and/or services you have created or are
 
 _(Note: if products are separately listed, so should use-cases be)_
 
-## _**Media Resources**_
-
-_Use the subsections below to provide general information on the project's media and planning resources.  (This can include text, diagrams and illustrations, etcetera.)_
-
-### Policies
-
-_State or link any official_ [_policies_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/policy.md) _which determine how the project is governed or otherwise developed._
-
-### Project Map
-
-_(if any; model & map of project's systems)_
-
-### Development Timeline/ Roadmap
-
-_Provide or link the timeline or roadmap for reaching project development milestones._
-
-### Project and Task Management System
-
-_Describe or (preferably) include or link whatever system(s) you use for managing the project, issues and tasks._
-
-#### _**Issues**_
-
-_**NOTE: Should we ask for all CC-related Issues to be submitted in Baserow, via a clear scope of mission (i.e. only indicate the issues which you need help with??)**_
-
-* _**Crucial design issue: How can we create a network-wide Issues system which enables sovereign projects to self-organize their own Issues?**_
-* &#x20;_**need to help projects to understand when to submit Issues, and also explicitly empower them to self-organize internal issues.**_
-
-### Projects Needs / Bounties
-
-_Describe or link any functions or tasks which your project needs external help in performing, or (if applicable) link your bounty system._ &#x20;
-
-### Current Value Invested
-
-_Describe or link the resources already invested in the project, including estimated person-hours of labor._
-
-## Additional Media&#x20;
+## Media Resources
 
 _Please link additional media resources which are officially associated with the project.  This should ideally include all public project media resources, and may include any private resources which you want to share in our network._
 
@@ -152,6 +117,41 @@ A _wiki_ is _a_ [_network_](https://github.com/gcassel/Modular-Organizing-Termin
 Usually a long-term goal for major projects with many contributors. Eventually they can marry in a unified conceptual field.&#x20;
 
 #### Public Calendar
+
+## _**Governance Resources**_
+
+_Use the subsections below to provide general information on the project's media and planning resources.  (This can include text documents, diagrams and illustrations, etcetera.)_
+
+### Policies
+
+_State or link any official_ [_policies_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/policy.md) _which determine how the project is governed or otherwise developed._
+
+### Project Map
+
+_(if any; model & map of project's systems)_
+
+### Development Timeline/ Roadmap
+
+_Provide or link the timeline or roadmap for reaching project development milestones._
+
+### Project and Task Management System
+
+_Describe or (preferably) include or link whatever system(s) you use for managing the project, issues and tasks._
+
+#### _**Issues**_
+
+_**NOTE: Should we ask for all CC-related Issues to be submitted in Baserow, via a clear scope of mission (i.e. only indicate the issues which you need help with??)**_
+
+* _**Crucial design issue: How can we create a network-wide Issues system which enables sovereign projects to self-organize their own Issues?**_
+* &#x20;_**need to help projects to understand when to submit Issues, and also explicitly empower them to self-organize internal issues.**_
+
+### Projects Needs / Bounties
+
+_Describe or link any functions or tasks which your project needs external help in performing, or (if applicable) link your bounty system._ &#x20;
+
+### Current Value Invested
+
+_Describe or link the resources already invested in the project, including estimated person-hours of labor._
 
 
 
