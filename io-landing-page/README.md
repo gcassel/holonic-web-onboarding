@@ -72,8 +72,6 @@ _List and link your Project's white paper(s), if any._
 
 _List and link key publications about your Project._
 
-### _Budget (Placeholder) (flesh this out)_
-
 ### Directory
 
 **CONSTRUCTION NOTES:** &#x20;
@@ -144,6 +142,8 @@ _**NOTE: Should we ask for all CC-related Issues to be submitted in Baserow, via
 
 * _**Crucial design issue: How can we create a network-wide Issues system which enables sovereign projects to self-organize their own Issues?**_
 * &#x20;_**need to help projects to understand when to submit Issues, and also explicitly empower them to self-organize internal issues.**_
+
+### _Budget (Placeholder) (flesh this out)_
 
 ### Projects Needs / Bounties
 
