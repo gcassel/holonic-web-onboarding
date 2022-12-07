@@ -16,6 +16,10 @@ _add 1-3 sentence concise description of the project_
 
 _What is the_ [_primary_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) __ [_goal_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/goal.md) _which_ [_defines_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) _your_ [_project_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md)_?  Mission should be identifiable as action in which the project either maintains or changes one or more resources of interest to the project stewards and others.  Mission may be perceived as vision, purpose, intent or goal.)_
 
+### Vision
+
+
+
 ### Overview/Summary
 
 _add definition_
