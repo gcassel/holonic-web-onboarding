@@ -32,9 +32,11 @@ _(guidelines or rules on summary length TBD?)_
 
 ### Storyline
 
-_-- Explain how your mission will serve all, and add value to our greater community._
+_-- Explain how your mission will serve all, and add value to the evolution of life on our planet._
 
 _(Narrative/_ how it connects to nature/ consciousness)
+
+_(Let's focus on this when we import IO into this format)_
 
 ### Problem / Solution
 
