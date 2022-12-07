@@ -60,7 +60,7 @@ _(Note: if products are separately listed, so should use-cases be)_
 
 ## _**Media Resources**_
 
-_Use the subsections below to provide general information on_ [_governance resources_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/governance-resource.md) _and planning._
+_Use the subsections below to provide general information on the project's media and planning resources.  (This can include text, diagrams and illustrations, etcetera.)_
 
 ### Policies
 
