@@ -68,9 +68,21 @@ _List and link your Project's white paper(s), if any._
 
 ### Diagrams
 
-### _Publications_
+### Publications
 
 _List and link key publications about your Project._
+
+## **Governance Resources**
+
+A _governance resource_ is a [model](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/model.md) which [_functions_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/function.md) __ [_officially_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/official.md) _in the_ [_governance_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/govern.md) __ [_system_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/system.md) _of one or more_ [_resources_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/resource.md).
+
+### Policies
+
+_State or link any official_ [_policies_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/policy.md) _which determine how the project is governed or otherwise developed._
+
+### Organizational Map
+
+_(if any; model & map of project's systems)  (NOTE: informal and unofficial project or planning maps are not governance resources; however, they might be included in Media Resources as Diagrams, etcetera)_
 
 ### Directory
 
@@ -114,17 +126,7 @@ A _wiki_ is _a_ [_network_](https://github.com/gcassel/Modular-Organizing-Termin
 
 Usually a long-term goal for major projects with many contributors. Eventually they can marry in a unified conceptual field.&#x20;
 
-#### Public Calendar
-
-## _**Governance Resources**_
-
-### Policies
-
-_State or link any official_ [_policies_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/policy.md) _which determine how the project is governed or otherwise developed._
-
-### Organizational Map
-
-_(if any; model & map of project's systems)_
+### Public Calendar
 
 ### Development Timeline/ Roadmap
 
