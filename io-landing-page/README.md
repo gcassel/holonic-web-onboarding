@@ -130,7 +130,7 @@ _(if any; model & map of project's systems)_
 
 ### Development Timeline/ Roadmap
 
-_Provide or link the timeline or roadmap for reaching project development milestones._
+_Define your official milestones, and provide or link the timeline or roadmap for reaching them._
 
 ### Project and Task Management System
 
