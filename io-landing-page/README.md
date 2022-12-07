@@ -153,7 +153,7 @@ _**NOTE: Should we ask for all CC-related Issues to be submitted in Baserow, via
 
 _Describe or link any functions or tasks which your project needs external help in performing, or (if applicable) link your bounty system._ &#x20;
 
-### Accounting/ Current Project Value&#x20;
+### Accounting/ Current Project Valuation&#x20;
 
 _Describe or link the resources already invested in the project, including estimated person-hours of labor._
 
