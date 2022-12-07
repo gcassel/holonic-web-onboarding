@@ -60,7 +60,7 @@ _(Note: if products are separately listed, so should use-cases be)_
 
 ## Media Resources
 
-_Please link additional media resources which are officially associated with the project.  This should ideally include all public project media resources, and may include any private resources which you want to share in our network._
+_Use the subsections below to describe and link the project's general media and supplementary resources.  (This may include text documents, diagrams and illustrations, etcetera.)  Ideally, this should include all public project media resources, and may include any private resources which you want to share in the Holonic Web._
 
 ### White papers
 
@@ -117,8 +117,6 @@ Usually a long-term goal for major projects with many contributors. Eventually t
 #### Public Calendar
 
 ## _**Governance Resources**_
-
-_Use the subsections below to provide general information on the project's media and planning resources.  (This can include text documents, diagrams and illustrations, etcetera.)_
 
 ### Policies
 
