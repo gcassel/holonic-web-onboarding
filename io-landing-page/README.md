@@ -66,6 +66,8 @@ _Use the subsections below to describe and link the project's general media and 
 
 _List and link your Project's white paper(s), if any._
 
+### FAQs
+
 ### Diagrams
 
 ### Publications
