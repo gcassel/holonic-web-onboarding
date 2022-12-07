@@ -70,6 +70,8 @@ _List and link your Project's white paper(s), if any._
 
 ### Diagrams
 
+_(including wireframes and flowcharts, and any unofficial visual maps of a project or community)_
+
 ### Publications
 
 _List and link key publications about your Project._
