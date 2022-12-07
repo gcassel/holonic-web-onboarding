@@ -124,7 +124,7 @@ _Use the subsections below to provide general information on the project's media
 
 _State or link any official_ [_policies_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/policy.md) _which determine how the project is governed or otherwise developed._
 
-### Project Map
+### Organizational Map
 
 _(if any; model & map of project's systems)_
 
