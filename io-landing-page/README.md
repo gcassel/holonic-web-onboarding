@@ -12,13 +12,17 @@ description: This is the form you use to add your project to our network.
 
 _add 1-3 sentence concise description of the project_
 
-### Mission
-
-_What is the_ [_primary_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) __ [_goal_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/goal.md) _which_ [_defines_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) _your_ [_project_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md)_?  Mission should be identifiable as action in which the project either maintains or changes one or more resources of interest to the project stewards and others.  Mission may be perceived as vision, purpose, intent or goal.)_
-
 ### Vision
 
 Vision is an optional but often important part of sensemaking to develop a [Mission](https://docs.google.com/document/d/1vr957QAuU88YwXFXtoIrXocIDwXCtbpWWY4aRZQapXk/edit#heading=h.4lhuhh5vqf0d) (and the rest of a Project).  Vision is a goal; it’s a desired state/condition of being and/or activity.  Vision can be grand and inspiring, as long as it leads to a practical Mission.
+
+### Mission
+
+_What is the_ [_primary_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/base.md) __ [_goal_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/goal.md) _which_ [_defines_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/define.md) _your_ [_project_](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/project.md)_?_ &#x20;
+
+Mission should define, or summarize and link, the primary goal or goals for the Project. The mission is of utmost importance for defining and maintaining the integrity of the project.
+
+_Mission should be identifiable as action, or activity, in which this project either maintains or further develops resources of interest to the project stewards and others.  Mission may be perceived as vision, purpose, intent or goal.)_
 
 ### Overview/Summary
 
