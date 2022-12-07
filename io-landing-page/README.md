@@ -22,7 +22,7 @@ _What is the_ [_primary_](https://github.com/gcassel/Modular-Organizing-Terminol
 
 Mission should define, or summarize and link, the primary goal or goals for the Project. The mission is of utmost importance for defining and maintaining the integrity of the project.
 
-_Mission should be identifiable as action, or activity, in which this project either maintains or further develops resources of interest to the project stewards and others.  Mission may be perceived as vision, purpose, intent or goal.)_
+_Mission should be identifiable as action, or activity, in which this project either maintains or further develops the resources of interest to the project stewards and others.  Mission may be perceived as vision, purpose, intent or goal.)_
 
 ### Overview/Summary
 
