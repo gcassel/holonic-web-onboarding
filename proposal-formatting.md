@@ -15,8 +15,14 @@ This guide supplements [Modular Organizing Recipe](https://docs.google.com/docum
 Each of the sections below can be developed inline in the proposal text, preferably with effective document sectioning.  It’s also possible to develop some sections such as Cost/Benefit analysis as linked Extensions, if responsibly stewarded and edited.\
 Note that many proposals can and should be very simple, and should not use most of the structural options described below.  These options are included for major long-term proposal development.
 
+### Simple Version
+
+_**Emphasize the option to create very simple proposals whenever appropriate; e.g.. as simple as a single sentence which describes a plan of action which is desired by one or more agents.**_
+
 \
-Proposal StructureStructure every proposal to clearly specify each and every proposed action which will, during the voting procedure, be simultaneously approved or declined by any number of [Eligible Voters](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.gszywibughdu).
+Proposal Structure
+
+Structure every proposal to clearly specify each and every proposed action which will, during the voting procedure, be simultaneously approved or declined by any number of [Eligible Voters](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.gszywibughdu).
 
 \
 Each proposal may be [Simple](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.o47cz07002uj) or [Compound](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.vosyypx8fnpl), and each proposed action may be [Enclosed](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.gbjaesqogg4h) or [Linked](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.htk8x2h3pdg4). \

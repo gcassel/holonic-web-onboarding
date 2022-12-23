@@ -58,10 +58,6 @@ _What are the intended uses of the goods and/or services you have created or are
 
 _(Note: if products are separately listed, so should use-cases be)_
 
-### Stewards
-
-_List and link the stewards here, and/or link to the Organizational Map and/or Directory_
-
 ## Media Resources
 
 _Use the subsections below to describe and link the project's general media and supplementary resources.  (This may include text documents, diagrams and illustrations, etcetera.)  Ideally, this should include all public project media resources, and may include any private resources which you want to share in the Holonic Web._
