@@ -19,7 +19,7 @@ Note that many proposals can and should be very simple, and should not use most 
 
 _**Emphasize the option to create very simple proposals whenever appropriate; e.g.. as simple as a single sentence which describes a plan of action which is desired by one or more agents.**_
 
-_(technical MOT alternative) A proposal_ is _an offer or request for a specific agent to share a specific resource, action or activity.   (for example, all offers and requests are proposals)_
+_(technical MOT alternative) A proposal_ is _an offer or request for a specific agent to share a specific resource, action or activity.   (for example, all offers and requests are proposals)_    Any proposal may contain any number of [_formally_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) __ [_related_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) __ [_offers_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/offer.md) _and_ [_requests_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/request.md).
 
 \
 Proposal Structure
