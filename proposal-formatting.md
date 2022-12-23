@@ -19,7 +19,7 @@ Note that many proposals can and should be very simple, and should not use most 
 
 _**Emphasize the option to create very simple proposals whenever appropriate; e.g.. as simple as a single sentence which describes a plan of action which is desired by one or more agents.**_
 
-_(technical MOT alternative) A proposal_ is _an offer or request for a specific agent to share a specific resource, action or activity._
+_(technical MOT alternative) A proposal_ is _an offer or request for a specific agent to share a specific resource, action or activity.   (for example, all offers and requests are proposals)_
 
 \
 Proposal Structure
