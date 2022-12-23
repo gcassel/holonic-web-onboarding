@@ -4,58 +4,6 @@ description: This is the form you use to add your project to our network.
 
 # Project Formatting
 
-## INTEGRATIONS TO MAKE
-
-_(the following categories should be merged as needed; asterices (\*) indicate categories which are mainly or solely applicable to Proposals instead of Projects:_\
-__\
-__Name of the organization and title of the project.
-
-&#x20;
-
-A description of the organization, its mission, and goals.
-
-&#x20;
-
-A clear statement of the need or problem being addressed.
-
-&#x20;
-
-The project’s goals and a clear plan to achieve them. \*
-
-&#x20;
-
-The expected results and a description of how the results will be measured. \*
-
-&#x20;
-
-A quantitative assessment of the potential impact of the work. \*
-
-&#x20;
-
-The project’s timeline.
-
-&#x20;
-
-The amount requested (just the total number).  \*
-
-&#x20;
-
-Full contact information, including regular mailing address where successful applicants can receive payments.  \*
-
-&#x20;
-
-A detailed line item budget for the project for which funding is sought, including other funding sources already identified. \*
-
-&#x20;
-
-A one-page general budget for the organization, including list of principal funding sources.
-
-A list of directors and officers.
-
-&#x20;
-
-Brief bios of key personnel involved in the project. \*
-
 ## Overview
 
 ### Title
@@ -109,10 +57,6 @@ _What goods and services, if any, is your product offering or developing for acc
 _What are the intended uses of the goods and/or services you have created or are creating?_
 
 _(Note: if products are separately listed, so should use-cases be)_
-
-### Stewards
-
-_List and link the stewards here, and/or link to the Organizational Map and/or Directory_
 
 ## Media Resources
 
