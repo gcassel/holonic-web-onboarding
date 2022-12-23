@@ -12,55 +12,21 @@ This guide supplements [Modular Organizing Recipe](https://docs.google.com/docum
 
 ## INTEGRATIONS TO MAKE
 
-_(the following categories should be merged as needed; asterices (\*) indicate categories which are mainly or solely applicable to Proposals instead of Projects:_\
-__\
-__Name of the organization and title of the project.
+_(the following categories should be merged as needed; asterices (\*) indicate categories which are mainly or solely applicable to Proposals instead of Projects:_
 
-&#x20;
-
-A description of the organization, its mission, and goals.
-
-&#x20;
-
-A clear statement of the need or problem being addressed.
-
-&#x20;
-
-The project’s goals and a clear plan to achieve them. \*
-
-&#x20;
-
-The expected results and a description of how the results will be measured. \*
-
-&#x20;
-
-A quantitative assessment of the potential impact of the work. \*
-
-&#x20;
-
-The project’s timeline.
-
-&#x20;
-
-The amount requested (just the total number).  \*
-
-&#x20;
-
-Full contact information, including regular mailing address where successful applicants can receive payments.  \*
-
-&#x20;
-
-A detailed line item budget for the project for which funding is sought, including other funding sources already identified. \*
-
-&#x20;
-
-A one-page general budget for the organization, including list of principal funding sources.
-
-A list of directors and officers.
-
-&#x20;
-
-Brief bios of key personnel involved in the project. \*
+1. Name of the organization and title of the project.
+2. A description of the organization, its mission, and goals.
+3. A clear statement of the need or problem being addressed.
+4. The project’s goals and a clear plan to achieve them. \*
+5. The expected results and a description of how the results will be measured. \*
+6. A quantitative assessment of the potential impact of the work. \*
+7. The project’s timeline.
+8. The amount requested (just the total number).  \*
+9. Full contact information, including regular mailing address where successful applicants can receive payments.  \*
+10. A detailed line item budget for the project for which funding is sought, including other funding sources already identified. \*
+11. A one-page general budget for the organization, including list of principal funding sources.
+12. A list of directors and officers.
+13. Brief bios of key personnel involved in the project. \*
 
 ### Introduction
 
