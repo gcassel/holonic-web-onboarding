@@ -1,72 +1,26 @@
 # Proposal Formatting
 
-## Proposal Formatting
-
-Authors: [Greg Cassel](https://github.com/gcassel)
-
-Status: Alpha.  (This document will receive an open [CC 4.0](http://creativecommons.org/licenses/by/4.0/) license after it achieves sufficient stability.)\
-
-
+Proposal FormattingAuthor: [Greg Cassel](https://github.com/gcassel)Status: Alpha.  (This document will receive an open [CC 4.0](http://creativecommons.org/licenses/by/4.0/) license after it achieves sufficient stability.)\
 This guide supplements [Modular Organizing Recipe](https://docs.google.com/document/d/17ssWfsuaKQkytdW1q83qKzEjxrY-BoreREch46JOMQY/edit?usp=sharing) and [MORDEF Template](https://docs.google.com/document/d/1qKigOjr0yqlVt68Q3vuTp32OYEJb78EYPBN4IRJKx44/edit?usp=sharing).  Use [Basic MORDEF Formatting](https://docs.google.com/document/d/1FG9M\_YB3nacs1a61P8aQmlblUt40XAZ-TSWtEKw8rmw/edit?usp=sharing) along with the Resource Description sectioning suggestions below.\
-
-
-### Introduction
-
-Each of the sections below can be developed inline in the proposal text, preferably with effective document sectioning.  It’s also possible to develop some sections such as Cost/Benefit analysis as linked Extensions, if responsibly stewarded and edited.\
-Note that many proposals can and should be very simple, and should not use most of the structural options described below.  These options are included for major long-term proposal development.
-
-### Simple Version
-
-_**Emphasize the option to create very simple proposals whenever appropriate; e.g.. as simple as a single sentence which describes a plan of action which is desired by one or more agents.**_
-
-_(technical MOT alternative) A proposal_ is _an offer or request for a specific agent to share a specific resource, action or activity.   (for example, all offers and requests are proposals)_    Any proposal may contain any number of [_formally_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/form.md) __ [_related_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/relate.md) __ [_offers_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/offer.md) _and_ [_requests_](https://github.com/gcassel/Modular-Organization-Terminology/blob/master/terms/request.md).
-
-\
-Proposal Structure
-
-Structure every proposal to clearly specify each and every proposed action which will, during the voting procedure, be simultaneously approved or declined by any number of [Eligible Voters](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.gszywibughdu).
-
-\
+IntroductionEach of the sections below can be developed inline in the proposal text, preferably with effective document sectioning.  It’s also possible to develop some sections such as Cost/Benefit analysis as linked Extensions, if responsibly stewarded and edited.\
+Note that many proposals can and should be very simple, and should not use most of the structural options described below.  These options are included for major long-term proposal development.\
+Proposal StructureStructure every proposal to clearly specify each and every proposed action which will, during the voting procedure, be simultaneously approved or declined by any number of [Eligible Voters](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.gszywibughdu).\
 Each proposal may be [Simple](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.o47cz07002uj) or [Compound](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.vosyypx8fnpl), and each proposed action may be [Enclosed](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.gbjaesqogg4h) or [Linked](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.htk8x2h3pdg4). \
 Simple ProposalsA Simple Proposal defines only one proposed action, which may be either [Enclosed](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.gbjaesqogg4h) or [Linked](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.htk8x2h3pdg4).\
 \
 Examples:We will cancel this year’s annual gatheringAdopt the following Diversity Policy: \[text]Adopt the \[linked] Diversity Policy\
-
-
 Simple Proposals can effectively address simple goals.  They can also address highly complex, unpredictable and uncertain matters, although often with debatable practicality.  [(1)](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.crcfsjo8mh92)\
-
-
 Compound ProposalsA Compound Proposal defines two or more proposed items, each of which may be [Enclosed](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.7zap1b3rear7) or [Linked](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.htk8x2h3pdg4).  Compound proposals can usually be presented as numbered or unnumbered lists.   Important note:  When a compound proposal is submitted for voting, the voters will categorically vote to approve or decline all of the items together, regardless of whether or not mutual dependencies have previously been perceived!  Therefore, think carefully about bundling any potentially contentious proposal items together into a single compound proposal, unless you’re trying to force contentious items through by means of their packaging, which Modular Governance Recipe doesn’t encourage or support.\
-
-
 Examples:\
 Cancel this year’s annual gatheringForm a new Gathering Committee to design next year’s gatheringAdopt the linked policy for assigning members to Gathering Committee  Adopt the following Diversity Policy: \[text]Form a new Diversity Committee to develop a Harassment and Abuse Policy, per this (linked) Diversity Committee CharterRelease this announcement to the press: \[text]\
-
-
 Sequential DependenciesNumbered lists of [items](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.gbjaesqogg4h) can directly specify sequential processes, when sequence matters!  When sequential dependency is present, a Compound Proposal should clearly denote that the actions must be performed in their listed order.\
 Mutual DependenciesIn drafting and revising a Compound Proposal, it can be very important to indicate whether the authors and/or viewers consider the proposed actions to be mutually dependent (and, therefore, mutually required) or not.  This formal distinction is important because it affects the creative potential to substantially change or to delete any of those actions.   (Add examples.)   When mutual dependence is present, the mutually dependent actions should be clearly grouped with the denotation that “all of the below” (or above) actions must be approved or declined together, to improve the efficiency of discussion and design iteration.\
-
-
-### Proposal Items
-
-#### Enclosed Items
-
-An Enclosed Item is fully described by its text in the Proposal Summary.  I.e., it does not depend upon the details in externally-stored Resources.\
+Proposal ItemsEnclosed ItemsAn Enclosed Item is fully described by its text in the Proposal Summary.  I.e., it does not depend upon the details in externally-stored Resources.\
 Enclosed Items can be technically simpler than [Linked Items](https://docs.google.com/document/d/1v0HoLoNi4XK7RZT59zQl00hW9YF1CbQm-xrZ9AFXbPk/edit#heading=h.htk8x2h3pdg4), because less structure is required.  However, major and ambitious Enclosed Items may practically need the same degree of analytical design and formatting as one would apply to a linked [Subject Resource](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/subject-resource.md), such as a fully developed Project Summary (see [Project Formatting Guide](https://docs.google.com/document/d/1vr957QAuU88YwXFXtoIrXocIDwXCtbpWWY4aRZQapXk/edit?usp=sharing)).  \
-
-
-#### Linked Items
-
-A Linked Item is formally related to a [Subject Resource](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/subject-resource.md).  The Subject Resource should be linked either directly or by means of a Resource Description.  Precisely specify the proposal item in reference to the linked Subject.  (For example, adding or removing that Subject to the Base Project, or replacing another Resource with the Subject; etcetera).\
+Linked ItemsA Linked Item is formally related to a [Subject Resource](https://github.com/gcassel/Modular-Organizing-Terminology/blob/master/terms/subject-resource.md).  The Subject Resource should be linked either directly or by means of a Resource Description.  Precisely specify the proposal item in reference to the linked Subject.  (For example, adding or removing that Subject to the Base Project, or replacing another Resource with the Subject; etcetera).\
 The development of a Subject Resource, which could be included in one or more Linked Items, can improve clarity and efficiency in any major, long-term research and development processes.\
-
-
 Proposal Item FormattingTo effectively and sufficiently describe each proposal item, use the basic guidelines below:\
-
-
 Subject and Predicate Structure: Each proposal item should indicate a subject and a predicate, indicating a person or persons (subject) who will support a resource or perform an action (predicate).\
-
-
 The subject may be indicated for a clearly-contained grouping of actions all at once; for example:  “Team X will take the following actions:  \[Action 1], \[Action 2], \[Action 3].\
 Predicates/proposed actions often represent offers or requests; however, they can be any type of possible action.  The predicate verb (the proposed action) should be in future or present tense. \
 Precisely define the object of the predicate if (1) there is a definable object and (2) the object is not implicitly clear.\
