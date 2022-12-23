@@ -2,7 +2,7 @@
 
 ## Proposal Formatting
 
-Author: [Greg Cassel](https://github.com/gcassel)
+Authors: [Greg Cassel](https://github.com/gcassel)
 
 Status: Alpha.  (This document will receive an open [CC 4.0](http://creativecommons.org/licenses/by/4.0/) license after it achieves sufficient stability.)\
 
