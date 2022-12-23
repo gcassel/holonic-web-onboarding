@@ -4,6 +4,10 @@ description: This is the form you use to add your project to our network.
 
 # Project Formatting
 
+## INTEGRATIONS TO MAKE
+
+
+
 ## Overview
 
 ### Title
@@ -57,6 +61,10 @@ _What goods and services, if any, is your product offering or developing for acc
 _What are the intended uses of the goods and/or services you have created or are creating?_
 
 _(Note: if products are separately listed, so should use-cases be)_
+
+### Stewards
+
+_List and link the stewards here, and/or link to the Organizational Map and/or Directory_
 
 ## Media Resources
 
