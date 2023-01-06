@@ -3,7 +3,7 @@
 * [About this Space](README.md)
 * [PFA (Personal Foundational Agreement) Formatting](pfa-personal-foundational-agreement-formatting.md)
 * [Project Formatting](io-landing-page/README.md)
-  * [Project Form](io-landing-page/project-form.md)
+  * [Project Form Prototype](io-landing-page/project-form-prototype.md)
   * [Project Formatting Spreadsheet](io-landing-page/project-formatting-spreadsheet.md)
 * [Proposal Formatting](proposal-formatting.md)
 * [CFA (Collective Foundational Agreement) Formatting](cfa-collective-foundational-agreement-formatting.md)
