@@ -8,19 +8,13 @@ description: This is the form you use to add your project to our network.
 
 _(the following categories should be merged as needed; asterices (\*) indicate categories which are mainly or solely applicable to Proposals instead of Projects:_
 
-1. Name of the organization and title of the project.
-2. A description of the organization, its mission, and goals.
-3. A clear statement of the need or problem being addressed.
-4. The project’s goals and a clear plan to achieve them. \*
-5. The expected results and a description of how the results will be measured. \*
-6. A quantitative assessment of the potential impact of the work. \*
-7. The project’s timeline.
-8. The amount requested (just the total number).  \*
-9. Full contact information, including regular mailing address where successful applicants can receive payments.  \*
-10. A detailed line item budget for the project for which funding is sought, including other funding sources already identified. \*
-11. A one-page general budget for the organization, including list of principal funding sources.
-12. A list of directors and officers.
-13. Brief bios of key personnel involved in the project. \*
+
+
+1. Full contact information, including regular mailing address where successful applicants can receive payments.  \*
+2. A detailed line item budget for the project for which funding is sought, including other funding sources already identified. \*
+3. A one-page general budget for the organization, including list of principal funding sources.
+4. A list of directors and officers.
+5. Brief bios of key personnel involved in the project. \*
 
 ## Overview
 
@@ -79,6 +73,10 @@ _(Note: if products are separately listed, so should use-cases be)_
 ### Stewards
 
 _List and link the stewards here, and/or link to the Organizational Map and/or Directory_
+
+#### Contact Info
+
+Add contact info (or supplementary contact info) in a subsection if needed.
 
 ## Media Resources
 
@@ -154,7 +152,7 @@ Usually a long-term goal for major projects with many contributors. Eventually t
 
 ### Public Calendar
 
-### Development Timeline/ Roadmap
+### Timeline/ Roadmap
 
 _Define your official milestones, and provide or link the timeline or roadmap for reaching them._
 
